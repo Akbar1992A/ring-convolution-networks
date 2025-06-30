@@ -1,5 +1,8 @@
 # Ring Convolution Networks (RCN)
 
+**📊 Update v1.1**: Statistical analysis added! 100 trials show p=0.0056 
+(statistically significant). See [statistical analysis](statistical_analysis.py).
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15776775.svg)](https://doi.org/10.5281/zenodo.15776775)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
