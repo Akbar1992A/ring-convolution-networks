@@ -86,8 +86,10 @@ If you find this work useful, please cite:
 @article{akbarali2025rcn,
   title={Ring Convolution Networks: A Novel Neural Architecture Inspired by Quantum Superposition},
   author={Akbarali},
-  journal={arXiv preprint arXiv:2025.xxxxx},
-  year={2025}
+  journal={Zenodo},
+  year={2025},
+  doi={10.5281/zenodo.15776775},
+  url={https://doi.org/10.5281/zenodo.15776775}
 }
 ```
 
