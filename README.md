@@ -1,6 +1,6 @@
 # Ring Convolution Networks (RCN)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2025.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2025.xxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15776775.svg)](https://doi.org/10.5281/zenodo.15776775)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official PyTorch implementation of **"Ring Convolution Networks: A Novel Neural Architecture Inspired by Quantum Superposition"**
@@ -11,6 +11,10 @@ Official PyTorch implementation of **"Ring Convolution Networks: A Novel Neural 
 ## 🚀 Key Innovation
 
 Ring Convolution Networks (RCN) introduce a novel weight structure where each weight exists in a quantum-inspired superposition of states. Our experiments demonstrate **19.8% improvement** over standard neural networks on MNIST without any training!
+
+## 📄 Paper
+
+The full paper is available at: [https://doi.org/10.5281/zenodo.15776775](https://doi.org/10.5281/zenodo.15776775)
 
 ## 📊 Results
 
