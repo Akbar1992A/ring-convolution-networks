@@ -27,6 +27,17 @@ The full paper is available at: [https://doi.org/10.5281/zenodo.15776775](https:
 | Smooth Signals | 12.2% | 9.1% | -25.7% |
 | **MNIST Images** | **8.8%** | **10.6%** | **+19.8%** |
 
+## 🎉 UPDATE: Training Implemented!
+
+**June 30, 2025**: We successfully implemented training!
+
+| Version | Method | MNIST Accuracy | Status |
+|---------|--------|----------------|---------|
+| v1.0 | Random weights | 10.6% | Published |
+| **v2.0** | **Trained weights** | **90.1%** | **NEW!** |
+
+Training code: `fixed_optimized_training.py`
+
 ## 🔬 Core Concept
 
 Traditional neural networks use fixed weights. RCN replaces each weight with a "ring structure":
