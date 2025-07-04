@@ -1,5 +1,7 @@
 # Ring Convolution Networks (RCN)
 
+> ⚠️ **Note**: Currently seeking arXiv endorsement (cs.LG). If you can help: Code `A8LO9P`, Contact: bigdatateg@gmail.com
+
 **📊 Update v1.1**: Statistical analysis added! 100 trials show p=0.0056 
 (statistically significant). See [statistical analysis](statistical_analysis.py).
 
